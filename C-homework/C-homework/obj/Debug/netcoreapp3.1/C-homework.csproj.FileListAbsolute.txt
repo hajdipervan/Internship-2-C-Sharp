@@ -1,0 +1,13 @@
+C:\Users\HAJDI\Desktop\C-homework\C-homework\bin\Debug\netcoreapp3.1\C-homework.exe
+C:\Users\HAJDI\Desktop\C-homework\C-homework\bin\Debug\netcoreapp3.1\C-homework.deps.json
+C:\Users\HAJDI\Desktop\C-homework\C-homework\bin\Debug\netcoreapp3.1\C-homework.runtimeconfig.json
+C:\Users\HAJDI\Desktop\C-homework\C-homework\bin\Debug\netcoreapp3.1\C-homework.runtimeconfig.dev.json
+C:\Users\HAJDI\Desktop\C-homework\C-homework\bin\Debug\netcoreapp3.1\C-homework.dll
+C:\Users\HAJDI\Desktop\C-homework\C-homework\bin\Debug\netcoreapp3.1\C-homework.pdb
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.csprojAssemblyReference.cache
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.csproj.CoreCompileInputs.cache
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.AssemblyInfoInputs.cache
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.AssemblyInfo.cs
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.dll
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.pdb
+C:\Users\HAJDI\Desktop\C-homework\C-homework\obj\Debug\netcoreapp3.1\C-homework.genruntimeconfig.cache
